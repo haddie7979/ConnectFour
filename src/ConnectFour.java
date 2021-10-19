@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// This is a comment for the lab
+// This is a comment for the 6th lab
 
 public class ConnectFour {
     // This will print the board
